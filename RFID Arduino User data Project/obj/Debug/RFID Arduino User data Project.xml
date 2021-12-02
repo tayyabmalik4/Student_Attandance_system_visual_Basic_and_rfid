@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RFID Arduino User data Project
+</name>
+</assembly>
+<members>
+<member name="T:RFID_Arduino_User_data_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._103775_edit_user_half_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._103780_profile_user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._103780_profile_user_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._1282956_close_delete_deny_no_out_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._186390_refresh_sync_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._2202256_bin_cancel_delete_garbage_recycle_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._2216354_cursor_location_map_navigation_position_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._28484_image_insert_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._326558_blank_check_box_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._326691_all_select_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._3669405_later_watch_ic_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._4014674_3g_cell_connection_mobile_tower_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._4171939_arrows_breadcrumbs_next_right_arrow_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._4171939_arrows_breadcrumbs_next_right_arrow_icon__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._7491962_ui_send_go_interface_plane_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources._7491962_ui_send_go_interface_plane_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Click_to_browse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Connected">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Disconnect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.red_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.rfid_attendance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Spinner_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Untitled_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Untitled_1__Recovered_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Untitled_1__Recovered_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Untitled_1__Recovered_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_User_data_Project.My.Resources.Resources.Untitled_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
